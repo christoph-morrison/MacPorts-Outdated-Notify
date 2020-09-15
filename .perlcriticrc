@@ -1,0 +1,5 @@
+force = 0
+severity = brutal
+
+[Variables::ProhibitPackageVars]
+packages = Data::Dumper File::Find FindBin Log::Log4perl

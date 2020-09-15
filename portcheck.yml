@@ -1,0 +1,7 @@
+---
+cache_expire_days: 0
+warn_about_outdated_defs: 1
+verbose: 1
+cache_file: .portcheck.cache
+use_cache: 0
+quiet: 0
